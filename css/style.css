@@ -1,0 +1,58 @@
+.common-bg {
+    background-color: #9FC5F8;
+    margin-top: 15px;
+}
+.header_height {
+    min-height: 100px;
+}
+.brand,.gobal_nav,.tools {
+    background-color: #CFE2FB;
+    min-height: 70px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+.hero_height {
+    min-height: 150px;
+}
+.hero_feature,.call_to_action {
+    background-color: #CFE2FB;
+    min-height: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.item_two {
+    background-color: #6FABDC;
+    min-height: 150px;
+    margin-top: 15px;
+}
+.padding_right_disable {
+    padding-right: 0px;
+}
+.article_height {
+    min-height: 500px;
+}
+.article_feature,.article_listing {
+    background-color: #CFE2FB;
+    min-height: 430px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+.sidebar_feature {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1px;
+}
+.sidebar_content {
+    background-color: #CFE2FB;
+    min-height: 430px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    
+}
+.footer_height {
+    min-height: 75px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
